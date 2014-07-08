@@ -1,3 +1,5 @@
-UploadCrop
-==========
-Image Uploading system with advantage of cropping image.
+==||  ImageCropify  ||==
+--------------------
+Author: Ashish Singh
+--------------------
+Crop Image Using jQuery and PHP.
