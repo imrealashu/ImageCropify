@@ -11,7 +11,6 @@
         <div id="container">
             <img src="img/1.jpg" />
             <div id="box"></div>
-
             <div id="output"></div>
             <button id="button">Crop</button>
         </div>
